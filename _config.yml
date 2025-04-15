@@ -1,3 +1,8 @@
 title: Diana Marin
-description: Postdoc@TU Wien - Reconstructing surfaces or so
+description: Postdoc@TU Wien
 theme: jekyll-theme-minimal
+logo: /assets/profile.jpg
+show_downloads: false
+remote_theme: pages-themes/minimal
+include: ["assets/style.css"]
+# github_username: di-marin

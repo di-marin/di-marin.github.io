@@ -1,0 +1,27 @@
+img[alt="Logo"] {
+    max-width: 150px;
+    border-radius: 50%;
+    align-content: center;
+  }
+  
+
+  .header-content {
+    text-align: center;
+  }
+  
+  .header-content img {
+    max-width: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 1rem;
+  }
+  
+  .header-content h1 {
+    margin-bottom: 0.5rem;
+    font-size: 2rem;
+  }
+  
+  .header-content p {
+    font-size: 1.1rem;
+    color: #555;
+  }
