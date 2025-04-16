@@ -26,13 +26,8 @@ img[alt="Logo"] {
     color: #555;
   }
 
-  .wrapper p {
-    text-align: justify;
-  }
-
   .indented {
       margin-left: 4em;
-      text-align: justify;
       margin-top: -0.8em;
     }
     
