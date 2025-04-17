@@ -2,7 +2,8 @@
 
 ## Hello
 
-I’m currently working as postdoctoral researcher in the Virtual and Augmented Reality Group at TU Wien. I defended my PhD in February 2025 as part of the Rendering and Modeling Group at TU Wien, under Prof. Michael Wimmer's and Dr. Stefan Ohrhallinger's supervision, titled *Proximity-Based Point Cloud Reconstruction*. I am currently investigating how we reconstruct, interpret, and interact with unstructured data by combining geometry, topology and human perception, with application to various fields such as clustering, segmentation and procedural generation.
+I’m currently working as postdoctoral researcher in the Virtual and Augmented Reality Group at TU Wien led by Prof. Hannes Kaufmann. I defended my PhD on *Proximity-Based Point Cloud Reconstruction*, in February 2025 as part of the Rendering and Modeling Group at TU Wien, under Prof. Michael Wimmer's and Dr. Stefan Ohrhallinger's supervision. I am currently investigating how we reconstruct, interpret, and interact with unstructured data by combining geometry, topology and human perception, with application to various fields such as clustering, segmentation and procedural generation.
+
 
 
 ## Projects
@@ -77,9 +78,10 @@ I assisted students with personal tutorials to help them better understand graph
   
 
 ## Work Experience
-- **Project Assistant** @ TU Wien, 2021 - Present
-- **Research Assistant** @ University of Leeds, 2020
-- **Summer Research Intern** @ University of Leeds, 2019
+- **Project Assistant** @ TU Wien, September 2021 - Present
+- **Visiting Researcher** @ École Polytechnique Paris, February-April 2024
+- **Research Assistant** @ University of Leeds, March-September 2020
+- **Summer Research Intern** @ University of Leeds, June-September 2019
 - **Co-Founder and Software Engineer** @ MD Lab Games, 2015-2021
 
 ## Invited Talks
