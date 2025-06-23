@@ -2,7 +2,7 @@
 
 ## Hello
 
-I’m currently working as postdoctoral researcher in the Virtual and Augmented Reality Group at TU Wien led by Prof. Hannes Kaufmann. I defended my PhD on *Proximity-Based Point Cloud Reconstruction*, in February 2025 as part of the Rendering and Modeling Group at TU Wien, under Prof. Michael Wimmer's and Dr. Stefan Ohrhallinger's supervision. I am currently investigating how we reconstruct, interpret, and interact with unstructured data by combining geometry, topology and human perception, with application to various fields such as clustering, segmentation and procedural generation.
+I’m currently working as postdoctoral researcher in the [Virtual and Augmented Reality Group](https://www.vr.tuwien.ac.at/) at TU Wien led by Prof. Hannes Kaufmann. I defended my PhD on *Proximity-Based Point Cloud Reconstruction*, in February 2025 as part of the Rendering and Modeling Group at TU Wien, under Prof. Michael Wimmer's and Dr. Stefan Ohrhallinger's supervision. I am currently investigating how we reconstruct, interpret, and interact with unstructured data by combining geometry, topology and human perception, with application to various fields such as clustering, segmentation and procedural generation.
 
 
 
@@ -88,10 +88,4 @@ I assisted students with personal tutorials to help them better understand graph
 - **FAU Erlangen**, 8 October 2024, Erlangen - [slides](https://docs.google.com/presentation/d/e/2PACX-1vQ8a4Ge3Ll9FgwlExhN6co_crjDdI4bQUxlf0HT97R4PvXdpV-1e33BBvuiRtRQKmtucdz2ps3TitxM/pub?start=false&loop=false&delayms=3000)
 - **TU Graz**, 28 May 2024, Graz - [slides](https://docs.google.com/presentation/d/e/2PACX-1vTEPIHrK5MPUM8UUPKIRYR-rGB2pW2c6A_vczbG_0Rymj0m6PH7_k3y8jQn4HsETPIgEFUv4YrsVtvv/pub?start=false&loop=false&delayms=3000)
 
-## Contact
 
-You can find me here:
-- [GroupPage](https://www.vr.tuwien.ac.at/people/diana-marin/)
-- [GitHub](https://github.com/di-marin)
-- [LinkedIn](https://www.linkedin.com/in/diana-marin7621/)
-- [Email](mailto:diana.marin@tuwien.ac.at)

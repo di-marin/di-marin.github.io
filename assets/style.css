@@ -32,4 +32,25 @@ img[alt="Logo"] {
     }
     
   
-  
+  .contact-section {
+  text-align: center;
+  margin: 1rem 0;
+}
+.contact-section a {
+  margin: 0 0.8rem;
+  /* color: #007acc; */
+  text-decoration: none;
+}
+
+.wrapper a {
+  display: inline-block;
+  font-weight: 400;
+  color: #007acc;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.wrapper a:hover {
+  font-weight: 500; /* or 500 for less movement */
+  color: #005f99;
+}

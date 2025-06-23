@@ -6,3 +6,13 @@ show_downloads: false
 remote_theme: pages-themes/minimal
 include: ["assets/style.css"]
 # github_username: di-marin
+# contact:
+#   - url: https://www.vr.tuwien.ac.at/people/diana-marin/
+#     text: GroupPage
+#   - url: https://github.com/di-marin
+#     text: "GitHub"
+#   - url: https://www.linkedin.com/in/diana-marin7621/
+#     text: LinkedIn
+#   - url: mailto:diana.marin@tuwien.ac.at
+#     text: "Email"
+  
