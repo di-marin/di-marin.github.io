@@ -56,14 +56,18 @@ I developed methods to improve point cloud reconstruction through improved proxi
   **Diana Marin**, Stefan Ohrhallinger and Michael Wimmer  
   *Eurographics 2022 - Posters*
 
-## In Progress
-- SIGnificant Outlier Removal  
+- [SIGnificant Outlier Removal](assets/SIGnificant%20Outlier%20Removal.pdf)
   **Diana Marin**, Filip Ilic, Stefan Ohrhallinger, Michael Wimmer  
-  *To appear in Springer Communications in Computer and Information Science*
+  *International Joint Conference on Computer Vision, Imaging and Computer Graphics*
     
-- SCAN2BEAMS: MOVING TOWARDS AUTOMATED MODELLING AND ANALYSIS OF STRUCTURAL INDUSTRIAL BUILDING STOCK  
+- [Scan2Beams: Moving Towards Automated Modelling and Analysis of Structural Industrial Building Stock](https://ec-3.org/publications/conferences/EC32025/papers/EC32025_194.pdf)  
   Julia Reisinger, **Diana Marin**, Philipp Rufinatscha, Peter Kan  
-  *To appear in 2025 European Conference on Computing in Construction*
+  *2025 European Conference on Computing in Construction*
+
+## In Progress
+- Projection-Based Structural Element Extraction from Point Clouds  
+  **Diana Marin**, Julia Reisinger, Peter Kan, Hannes Kaufmann  
+  *GMP-X 2026*
 
 ## Teaching
 - **Programming Techniques for Visual Computing** @ TU Wien, 2022-2025. 
