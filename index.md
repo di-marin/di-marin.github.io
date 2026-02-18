@@ -56,7 +56,7 @@ I developed methods to improve point cloud reconstruction through improved proxi
   **Diana Marin**, Stefan Ohrhallinger and Michael Wimmer  
   *Eurographics 2022 - Posters*
 
-- [SIGnificant Outlier Removal](assets/SIGnificant%20Outlier%20Removal.pdf)
+- [SIGnificant Outlier Removal](https://rdcu.be/e4AsO)
   **Diana Marin**, Filip Ilic, Stefan Ohrhallinger, Michael Wimmer  
   *International Joint Conference on Computer Vision, Imaging and Computer Graphics*
     
