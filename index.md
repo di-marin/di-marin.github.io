@@ -56,18 +56,29 @@ I developed methods to improve point cloud reconstruction through improved proxi
   **Diana Marin**, Stefan Ohrhallinger and Michael Wimmer  
   *Eurographics 2022 - Posters*
 
-- [SIGnificant Outlier Removal](https://rdcu.be/e4AsO)
+- [SIGnificant Outlier Removal](https://rdcu.be/e4AsO)  
   **Diana Marin**, Filip Ilic, Stefan Ohrhallinger, Michael Wimmer  
   *International Joint Conference on Computer Vision, Imaging and Computer Graphics*
     
 - [Scan2Beams: Moving Towards Automated Modelling and Analysis of Structural Industrial Building Stock](https://ec-3.org/wp-content/uploads/2025/10/EC32025_194.pdf)  
-  Julia Reisinger, **Diana Marin**, Philipp Rufinatscha, Peter Kan  
+  Julia Reisinger, **Diana Marin**, Philipp Rufinatscha, Peter Kán  
   *2025 European Conference on Computing in Construction*
 
-<!-- ## In Progress -->
 - [Projection-Based Structural Element Extraction from Point Clouds](assets/GMP_X_2026_Projection_Based_Structural_Element_Extraction_from_Point_Clouds.pdf)  
-  **Diana Marin**, Julia Reisinger, Peter Kan, Hannes Kaufmann  
-  *GMP-X 2026*
+  **Diana Marin**, Julia Reisinger, Peter Kán, Hannes Kaufmann  
+  *GMP-X Conference on Geometry and Applied Mathematics 2026*
+## In Progress
+- [Pole-Arina: A Privacy-Preserving Dataset and Benchmark for Static Pole Tricks](https://di-marin.github.io/pole-arina/)  
+  **Diana Marin**, Katharina Scheucher, Peter Kán  
+  *CVPR Workshop on Sports 2026*
+
+## Academic Experience
+- XR Salento Thematic Session
+- CESCG
+- IPC 3DV
+- Reviewing
+- GGJ + Game Jam Plus
+
 
 ## Teaching
 - **Programming Techniques for Visual Computing** @ TU Wien, 2022-2025. 
@@ -92,4 +103,6 @@ I assisted students with personal tutorials to help them better understand graph
 - **FAU Erlangen**, 8 October 2024, Erlangen - [slides](https://docs.google.com/presentation/d/e/2PACX-1vQ8a4Ge3Ll9FgwlExhN6co_crjDdI4bQUxlf0HT97R4PvXdpV-1e33BBvuiRtRQKmtucdz2ps3TitxM/pub?start=false&loop=false&delayms=3000)
 - **TU Graz**, 28 May 2024, Graz - [slides](https://docs.google.com/presentation/d/e/2PACX-1vTEPIHrK5MPUM8UUPKIRYR-rGB2pW2c6A_vczbG_0Rymj0m6PH7_k3y8jQn4HsETPIgEFUv4YrsVtvv/pub?start=false&loop=false&delayms=3000)
 
+
+## Awards
 
