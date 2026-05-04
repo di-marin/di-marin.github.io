@@ -76,11 +76,11 @@ I developed methods to improve point cloud reconstruction through improved proxi
   *CVPR Workshop on Sports 2026*
 
 ## Academic Experience
-- XR Salento Thematic Session
-- CESCG
-- IPC 3DV
-- Reviewing
-- GGJ + Game Jam Plus
+- Organizer of [XR Salento Thematic Session on Egocentric scene understanding in the wild](https://www.xrsalento.it/thematic-session-2)
+- IPC Member and Organizer of Central European Seminar on Computer Graphics [(CESCG)](https://cescg.org/)
+- IPC member for 3DV
+- Reviewing  for Eurographics, 3DV, VMV, CESCG
+- Global Game Jam organizer + Game Jam Plus organizer
 
 
 ## Teaching
@@ -109,4 +109,4 @@ I assisted students with personal tutorials to help them better understand graph
 
 
 ## Awards
-
+- Selected as *WiGRAPH Rising Star*
