@@ -42,6 +42,25 @@ img[alt="Logo"] {
   text-decoration: none;
 }
 
+.section-outline {
+  border-top: 1px solid #e5e5e5;
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  text-align: left;
+}
+
+.wrapper .section-outline a {
+  display: block;
+  font-size: 0.95rem;
+  line-height: 1.35;
+  margin: 0.25rem 0;
+  padding: 0.2rem 0;
+}
+
+h2 {
+  scroll-margin-top: 1rem;
+}
+
 .wrapper a {
   display: inline-block;
   font-weight: 400;
@@ -53,4 +72,18 @@ img[alt="Logo"] {
 .wrapper a:hover {
   font-weight: 500; /* or 500 for less movement */
   color: #005f99;
+}
+
+@media print, screen and (max-width: 960px) {
+  .section-outline {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem 0.8rem;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .wrapper .section-outline a {
+    margin: 0;
+  }
 }
