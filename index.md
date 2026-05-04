@@ -60,12 +60,12 @@ I developed methods to improve point cloud reconstruction through improved proxi
   **Diana Marin**, Filip Ilic, Stefan Ohrhallinger, Michael Wimmer  
   *International Joint Conference on Computer Vision, Imaging and Computer Graphics*
     
-- [Scan2Beams: Moving Towards Automated Modelling and Analysis of Structural Industrial Building Stock](https://ec-3.org/publications/conferences/EC32025/papers/EC32025_194.pdf)  
+- [Scan2Beams: Moving Towards Automated Modelling and Analysis of Structural Industrial Building Stock](https://ec-3.org/wp-content/uploads/2025/10/EC32025_194.pdf)  
   Julia Reisinger, **Diana Marin**, Philipp Rufinatscha, Peter Kan  
   *2025 European Conference on Computing in Construction*
 
-## In Progress
-- Projection-Based Structural Element Extraction from Point Clouds  
+<!-- ## In Progress -->
+- [Projection-Based Structural Element Extraction from Point Clouds](assets/GMP_X_2026_Projection_Based_Structural_Element_Extraction_from_Point_Clouds.pdf)  
   **Diana Marin**, Julia Reisinger, Peter Kan, Hannes Kaufmann  
   *GMP-X 2026*
 
