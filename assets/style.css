@@ -76,14 +76,11 @@ h2 {
 
 @media print, screen and (max-width: 960px) {
   .section-outline {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.35rem 0.8rem;
-    justify-content: center;
     text-align: center;
   }
 
   .wrapper .section-outline a {
-    margin: 0;
+    display: block;
+    margin: 0.25rem 0;
   }
 }
