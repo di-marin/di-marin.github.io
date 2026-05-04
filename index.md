@@ -67,6 +67,7 @@ I developed methods to improve point cloud reconstruction through improved proxi
 - [Projection-Based Structural Element Extraction from Point Clouds](assets/GMP_X_2026_Projection_Based_Structural_Element_Extraction_from_Point_Clouds.pdf)  
   **Diana Marin**, Julia Reisinger, Peter Kán, Hannes Kaufmann  
   *GMP-X Conference on Geometry and Applied Mathematics 2026*
+
 ## In Progress
 - [Pole-Arina: A Privacy-Preserving Dataset and Benchmark for Static Pole Tricks](https://di-marin.github.io/pole-arina/)  
   **Diana Marin**, Katharina Scheucher, Peter Kán  
