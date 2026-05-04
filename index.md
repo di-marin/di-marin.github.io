@@ -12,10 +12,12 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 <p class="indented">
   We are working with experts to create tools that can help them in efficiently analyze and plan after disastrous events (floods, earthquakes). I am developing an image-based large scale fast reconstruction method.
 </p>
+
 - [RE:STOCK INDUSTRY](https://www.vr.tuwien.ac.at/projects/restock-industry/): 2024 - Present
 <p class="indented">
   We are developing tools that enable the analysis of industrial buildings for possible vertical reuse. I am working on the extraction of structural elements from 3D scans to enable finite element analysis.
 </p>
+
 - [Modeling the World at Scale](https://www.cg.tuwien.ac.at/research/projects/WorldScale): 2021-2024
 <p class="indented">
 I developed methods to improve point cloud reconstruction through improved proximity definitions applied to various settings. 
@@ -87,6 +89,7 @@ I developed methods to improve point cloud reconstruction through improved proxi
 I guide students to develop a game from scratch in OpenGL or Vulkan, gaining experience in hands-on implementation of visual effects. You can check out some of my students' games 
 <a href="https://www.cg.tuwien.ac.at/courses/PTVC/HallOfFame">here</a> and <a href="https://www.cg.tuwien.ac.at/courses/CG/HallOfFame">here</a>.
 </p>
+
 - **Computer Graphics** @ University of Leeds, 2020 - Teaching Assistant.
 <p class="indented">
 I assisted students with personal tutorials to help them better understand graphics concepts,  and I marked part of the coursework.
