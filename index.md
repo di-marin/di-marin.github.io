@@ -70,7 +70,6 @@ I developed methods to improve point cloud reconstruction through improved proxi
   *Eurographics 2022 - Posters*
 
 
-
 ## In Progress
 - [Pole-Arina: A Privacy-Preserving Dataset and Benchmark for Static Pole Tricks](https://di-marin.github.io/pole-arina/)  
   **Diana Marin**, Katharina Scheucher, Peter Kán  
@@ -83,6 +82,12 @@ I developed methods to improve point cloud reconstruction through improved proxi
 - Reviewer  for Eurographics, XR Salento, 3DV, VMV, CESCG
 - Global Game Jam organizer since 2018 + Game Jam Plus 2023 organizer; Check-out some of the games developed over the years at our hub in [2026](https://globalgamejam.org/group/31266/games), [2025](https://globalgamejam.org/group/11929/games), [2023](https://v3.globalgamejam.org/2023/jam-sites/tu-wien-ggj23), [2022](https://v3.globalgamejam.org/2022/jam-sites/tu-wien-ggj22).
 
+## Work Experience
+- **Project Assistant** @ TU Wien, September 2021 - Present
+- **Visiting Researcher** @ École Polytechnique Paris, February-April 2024
+- **Research Assistant** @ University of Leeds, March-September 2020
+- **Summer Research Intern** @ University of Leeds, June-September 2019
+- **Co-Founder and Software Engineer** @ MD Lab Games, 2015-2021
 
 ## Teaching
 - **Programming Techniques for Visual Computing** @ TU Wien, 2022-2025. 
@@ -97,18 +102,6 @@ I assisted students with personal tutorials to help them better understand graph
 </p>
   
 
-## Work Experience
-- **Project Assistant** @ TU Wien, September 2021 - Present
-- **Visiting Researcher** @ École Polytechnique Paris, February-April 2024
-- **Research Assistant** @ University of Leeds, March-September 2020
-- **Summer Research Intern** @ University of Leeds, June-September 2019
-- **Co-Founder and Software Engineer** @ MD Lab Games, 2015-2021
-
-## Invited Talks
-- **FAU Erlangen**, 8 October 2024, Erlangen - [slides](https://docs.google.com/presentation/d/e/2PACX-1vQ8a4Ge3Ll9FgwlExhN6co_crjDdI4bQUxlf0HT97R4PvXdpV-1e33BBvuiRtRQKmtucdz2ps3TitxM/pub?start=false&loop=false&delayms=3000)
-- **TU Graz**, 28 May 2024, Graz - [slides](https://docs.google.com/presentation/d/e/2PACX-1vTEPIHrK5MPUM8UUPKIRYR-rGB2pW2c6A_vczbG_0Rymj0m6PH7_k3y8jQn4HsETPIgEFUv4YrsVtvv/pub?start=false&loop=false&delayms=3000)
-
-
 ## Awards
 - My student, Ole Siemers, was awarded the Best Paper Award at CESCG 2026
 - Selected as [*WiGRAPH Rising Star 2025*](https://www.wigraph.org/spotlights/meet-our-rising-stars-2025/#person-Marin_Diana)
@@ -120,3 +113,8 @@ I assisted students with personal tutorials to help them better understand graph
 - Four-time recipient of the **Dean of Engineering Scholarship** - awarded to students achieving A*AA at A-level or equivalent and maintaining an average above 60% in each year.
 - **First Place** - FinTech Hackathon, University of Leeds Hackathon and Leeds Hackathon (2018, 2019).
 - **Gold Medal Infomatrix** National and International Level, Romania.
+
+
+## Invited Talks
+- **FAU Erlangen**, 8 October 2024, Erlangen - [slides](https://docs.google.com/presentation/d/e/2PACX-1vQ8a4Ge3Ll9FgwlExhN6co_crjDdI4bQUxlf0HT97R4PvXdpV-1e33BBvuiRtRQKmtucdz2ps3TitxM/pub?start=false&loop=false&delayms=3000)
+- **TU Graz**, 28 May 2024, Graz - [slides](https://docs.google.com/presentation/d/e/2PACX-1vTEPIHrK5MPUM8UUPKIRYR-rGB2pW2c6A_vczbG_0Rymj0m6PH7_k3y8jQn4HsETPIgEFUv4YrsVtvv/pub?start=false&loop=false&delayms=3000)
