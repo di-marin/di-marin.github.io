@@ -109,4 +109,13 @@ I assisted students with personal tutorials to help them better understand graph
 
 
 ## Awards
-- Selected as *WiGRAPH Rising Star*
+- Best Paper Award CESCG for my student, Ole Siemers
+- Selected as [*WiGRAPH Rising Star 2025*](https://www.wigraph.org/spotlights/meet-our-rising-stars-2025/#person-Marin_Diana)
+- Received the **KUWI Study Abroad Grant** (1500 EUR) for my star at Ecole Polytechnique
+- Got the **Doktorandinnen der Informatik ans Rednerpult** 2022-2024  (1000 EUR each year) to present accepted work at a conference
+- **Cook Prize** 2021 - awarded to the student from the School of Computing who achieves the best performance in the master's year.
+- **Hutchinson Prize** 2019 - awarded to the student from the School of Computing achieving the best performance in the second year.
+- **Faculty of Engineering's Dean's List** 2018 and 2019 - awarded to top 5% of first and second year students in the Faculty of Engineering.
+- Four-time recipient of the **Dean of Engineering Scholarship** - awarded to students achieving A*AA at A-level or equivalent and maintaining an average above 60% in each year.
+- **First Place** - FinTech Hackathon, University of Leeds Hackathon and Leeds Hackathon (2018, 2019).
+- **Gold Medal Infomatrix** National and International Level, Romania.
