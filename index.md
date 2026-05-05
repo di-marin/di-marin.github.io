@@ -25,10 +25,17 @@ I developed methods to improve point cloud reconstruction through improved proxi
 
 ## Publications
 
+- [Projection-Based Structural Element Extraction from Point Clouds](assets/GMP_X_2026_Projection_Based_Structural_Element_Extraction_from_Point_Clouds.pdf)  
+  **Diana Marin**, Julia Reisinger, Peter Kán, Hannes Kaufmann  
+  *GMP-X Conference on Geometry and Applied Mathematics 2026*
+
+- [Scan2Beams: Moving Towards Automated Modelling and Analysis of Structural Industrial Building Stock](https://ec-3.org/wp-content/uploads/2025/10/EC32025_194.pdf)  
+  Julia Reisinger, **Diana Marin**, Philipp Rufinatscha, Peter Kán  
+  *2025 European Conference on Computing in Construction*
+
 - [SING: Stability-Incorporated Neighborhood Graph](https://doi.org/10.1145/3680528.3687674)  
   **Diana Marin**, Amal Dev Parakkat, Stefan Ohrhallinger, Michael Wimmer, Steve Oudot, and Pooran Memari  
   *SIGGRAPH Asia 2024 Conference Papers (SA '24)*
- 
   
 - [Reconstructing Curves from Sparse Samples on Riemannian Manifolds](https://doi.org/10.1111/cgf.15136)  
   **Diana Marin**, Filippo Maggioli, Simone Melzi, Stefan Ohrhallinger and Michael Wimmer  
@@ -37,6 +44,10 @@ I developed methods to improve point cloud reconstruction through improved proxi
 - [Distributed Surface Reconstruction](https://doi.org/10.2312/egp.20241037)  
   **Diana Marin**, Patrick Komon, Stefan Ohrhallinger and Michael Wimmer  
   *Eurographics 2024 - Posters*
+  
+- [SIGnificant Outlier Removal](https://rdcu.be/e4AsO)  
+  **Diana Marin**, Filip Ilic, Stefan Ohrhallinger, Michael Wimmer  
+  *International Joint Conference on Computer Vision, Imaging and Computer Graphics 2024*
 
 - [Parameter-Free Connectivity for Point Clouds](https://doi.org/10.5220/0012394900003660)  
   **Diana Marin**, Stefan Ohrhallinger and Michael Wimmer   
@@ -58,29 +69,19 @@ I developed methods to improve point cloud reconstruction through improved proxi
   **Diana Marin**, Stefan Ohrhallinger and Michael Wimmer  
   *Eurographics 2022 - Posters*
 
-- [SIGnificant Outlier Removal](https://rdcu.be/e4AsO)  
-  **Diana Marin**, Filip Ilic, Stefan Ohrhallinger, Michael Wimmer  
-  *International Joint Conference on Computer Vision, Imaging and Computer Graphics*
-    
-- [Scan2Beams: Moving Towards Automated Modelling and Analysis of Structural Industrial Building Stock](https://ec-3.org/wp-content/uploads/2025/10/EC32025_194.pdf)  
-  Julia Reisinger, **Diana Marin**, Philipp Rufinatscha, Peter Kán  
-  *2025 European Conference on Computing in Construction*
 
-- [Projection-Based Structural Element Extraction from Point Clouds](assets/GMP_X_2026_Projection_Based_Structural_Element_Extraction_from_Point_Clouds.pdf)  
-  **Diana Marin**, Julia Reisinger, Peter Kán, Hannes Kaufmann  
-  *GMP-X Conference on Geometry and Applied Mathematics 2026*
 
 ## In Progress
 - [Pole-Arina: A Privacy-Preserving Dataset and Benchmark for Static Pole Tricks](https://di-marin.github.io/pole-arina/)  
   **Diana Marin**, Katharina Scheucher, Peter Kán  
   *CVPR Workshop on Sports 2026*
 
-## Academic Experience
-- Organizer of [XR Salento Thematic Session on Egocentric scene understanding in the wild](https://www.xrsalento.it/thematic-session-2)
-- IPC Member and Organizer of Central European Seminar on Computer Graphics [(CESCG)](https://cescg.org/)
-- IPC member for 3DV
-- Reviewing  for Eurographics, 3DV, VMV, CESCG
-- Global Game Jam organizer + Game Jam Plus organizer
+## Organisational Duties
+- Organizer of [XR Salento 2026 Thematic Session on Egocentric scene understanding in the wild](https://www.xrsalento.it/thematic-session-2)
+- IPC Member and Organizer of Central European Seminar on Computer Graphics [(CESCG)](https://cescg.org/) since 2022
+- IPC member for 3DV 2026
+- Reviewer  for Eurographics, XR Salento, 3DV, VMV, CESCG
+- Global Game Jam organizer since 2018 + Game Jam Plus 2023 organizer; Check-out some of the games developed over the years at our hub in [2026](https://globalgamejam.org/group/31266/games), [2025](https://globalgamejam.org/group/11929/games), [2023](https://v3.globalgamejam.org/2023/jam-sites/tu-wien-ggj23), [2022](https://v3.globalgamejam.org/2022/jam-sites/tu-wien-ggj22).
 
 
 ## Teaching
@@ -109,7 +110,7 @@ I assisted students with personal tutorials to help them better understand graph
 
 
 ## Awards
-- Best Paper Award CESCG for my student, Ole Siemers
+- My student, Ole Siemers, was awarded the Best Paper Award at CESCG 2026
 - Selected as [*WiGRAPH Rising Star 2025*](https://www.wigraph.org/spotlights/meet-our-rising-stars-2025/#person-Marin_Diana)
 - Received the **KUWI Study Abroad Grant** (1500 EUR) for my star at Ecole Polytechnique
 - Got the **Doktorandinnen der Informatik ans Rednerpult** 2022-2024  (1000 EUR each year) to present accepted work at a conference
