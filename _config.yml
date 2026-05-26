@@ -5,6 +5,11 @@ logo: /assets/profile.jpg
 show_downloads: false
 remote_theme: pages-themes/minimal
 include: ["assets/style.css"]
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - scripts
+  - vendor
 # github_username: di-marin
 # contact:
 #   - url: https://www.vr.tuwien.ac.at/people/diana-marin/

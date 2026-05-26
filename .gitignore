@@ -1,3 +1,10 @@
 _site/
 .vscode/
+.bundle/
+.bundle-user/
+.jekyll-cache/
+.sass-cache/
+vendor/bundle/
+to_run.txt
+scripts/
 Gemfile*
