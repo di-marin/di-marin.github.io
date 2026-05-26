@@ -61,6 +61,75 @@ h2 {
   scroll-margin-top: 1rem;
 }
 
+@media print, screen and (min-width: 961px) {
+  .wrapper {
+    width: 1080px;
+  }
+
+  header,
+  footer {
+    width: 260px;
+  }
+
+  section {
+    width: 740px;
+  }
+}
+
+.showcase-list {
+  display: grid;
+  gap: 0.65rem;
+  margin: 0.75rem 0 1.6rem;
+}
+
+.showcase-card {
+  display: flex;
+  gap: 0.7rem;
+  align-items: flex-start;
+  padding: 0;
+}
+
+.showcase-media {
+  display: block;
+  flex: 0 0 72px;
+  width: 72px;
+  height: 54px;
+  overflow: hidden;
+  border-radius: 6px;
+  background: transparent;
+}
+
+.showcase-media img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.showcase-body {
+  min-width: 0;
+}
+
+.showcase-body h3 {
+  margin: 0 0 0.35rem;
+  font-size: 0.98rem;
+  line-height: 1.3;
+}
+
+.showcase-body p {
+  margin: 0 0 0.45rem;
+}
+
+.showcase-body p:last-child {
+  margin-bottom: 0;
+}
+
+.showcase-meta {
+  color: #666;
+  font-size: 0.92rem;
+  font-style: italic;
+}
+
 .wrapper a {
   display: inline-block;
   font-weight: 400;
@@ -82,5 +151,15 @@ h2 {
   .wrapper .section-outline a {
     display: block;
     margin: 0.25rem 0;
+  }
+
+  .showcase-card {
+    gap: 0.6rem;
+  }
+
+  .showcase-media {
+    flex-basis: 64px;
+    width: 64px;
+    height: 48px;
   }
 }

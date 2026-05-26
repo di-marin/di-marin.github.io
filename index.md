@@ -12,24 +12,169 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 
 ## Projects
 
-- [PostDisaster](https://www.vr.tuwien.ac.at/projects/postdisaster/): 2025 - Present
-<p class="indented">
-  We are working with experts to create tools that can help them in efficiently analyze and plan after disastrous events (floods, earthquakes). I am developing an image-based large scale fast reconstruction method.
-</p>
+<div class="showcase-list">
+  <article class="showcase-card">
+    <a class="showcase-media" href="https://www.vr.tuwien.ac.at/projects/postdisaster/" aria-label="PostDisaster">
+      <img src="/assets/showcase/PostDisaster_logo.png" alt="PostDisaster placeholder visual">
+    </a>
+    <div class="showcase-body">
+      <h3><a href="https://www.vr.tuwien.ac.at/projects/postdisaster/">PostDisaster</a></h3>
+      <p class="showcase-meta">2025 - Present</p>
+      <p>We are working with experts to create tools that can help them in efficiently analyze and plan after disastrous events (floods, earthquakes). I am developing an image-based large scale fast reconstruction method.</p>
+    </div>
+  </article>
 
-- [RE:STOCK INDUSTRY](https://www.vr.tuwien.ac.at/projects/restock-industry/): 2024 - Present
-<p class="indented">
-  We are developing tools that enable the analysis of industrial buildings for possible vertical reuse. I am working on the extraction of structural elements from 3D scans to enable finite element analysis.
-</p>
+  <article class="showcase-card">
+    <a class="showcase-media" href="https://www.vr.tuwien.ac.at/projects/restock-industry/" aria-label="RE:STOCK INDUSTRY">
+      <img src="/assets/showcase/ReStock_logo.png" alt="RE:STOCK INDUSTRY placeholder visual">
+    </a>
+    <div class="showcase-body">
+      <h3><a href="https://www.vr.tuwien.ac.at/projects/restock-industry/">RE:STOCK INDUSTRY</a></h3>
+      <p class="showcase-meta">2024 - Present</p>
+      <p>We are developing tools that enable the analysis of industrial buildings for possible vertical reuse. I am working on the extraction of structural elements from 3D scans to enable finite element analysis.</p>
+    </div>
+  </article>
 
-- [Modeling the World at Scale](https://www.cg.tuwien.ac.at/research/projects/WorldScale): 2021-2024
-<p class="indented">
-I developed methods to improve point cloud reconstruction through improved proximity definitions applied to various settings. 
-</p>
+  <article class="showcase-card">
+    <a class="showcase-media" href="https://www.cg.tuwien.ac.at/research/projects/WorldScale" aria-label="Modeling the World at Scale">
+      <img src="/assets/showcase/modeling.jpg" alt="Modeling the World at Scale placeholder visual">
+    </a>
+    <div class="showcase-body">
+      <h3><a href="https://www.cg.tuwien.ac.at/research/projects/WorldScale">Modeling the World at Scale</a></h3>
+      <p class="showcase-meta">2021 - 2024</p>
+      <p>I developed methods to improve point cloud reconstruction through improved proximity definitions applied to various settings.</p>
+    </div>
+  </article>
+</div>
 
 ## Publications
 
-- [Projection-Based Structural Element Extraction from Point Clouds](assets/GMP_X_2026_Projection_Based_Structural_Element_Extraction_from_Point_Clouds.pdf)  
+<div class="showcase-list compact">
+  <article class="showcase-card">
+    <a class="showcase-media" href="assets/GMP_X_2026_Projection_Based_Structural_Element_Extraction_from_Point_Clouds.pdf" aria-label="Projection-Based Structural Element Extraction from Point Clouds">
+      <img src="/assets/showcase/gmp.png" alt="Projection-Based Structural Element Extraction thumbnail">
+    </a>
+    <div class="showcase-body">
+      <h3><a href="assets/GMP_X_2026_Projection_Based_Structural_Element_Extraction_from_Point_Clouds.pdf">Projection-Based Structural Element Extraction from Point Clouds</a></h3>
+      <p><strong>Diana Marin</strong>, Julia Reisinger, Peter Kán, Hannes Kaufmann</p>
+      <p class="showcase-meta">GMP-X Conference on Geometry and Applied Mathematics 2026</p>
+    </div>
+  </article>
+
+  <article class="showcase-card">
+    <a class="showcase-media" href="https://ec-3.org/wp-content/uploads/2025/10/EC32025_194.pdf" aria-label="Scan2Beams">
+      <img src="/assets/showcase/scan2beams.png" alt="Scan2Beams placeholder visual">
+    </a>
+    <div class="showcase-body">
+      <h3><a href="https://ec-3.org/wp-content/uploads/2025/10/EC32025_194.pdf">Scan2Beams: Moving Towards Automated Modelling and Analysis of Structural Industrial Building Stock</a></h3>
+      <p>Julia Reisinger, <strong>Diana Marin</strong>, Philipp Rufinatscha, Peter Kán</p>
+      <p class="showcase-meta">2025 European Conference on Computing in Construction</p>
+    </div>
+  </article>
+
+  <article class="showcase-card">
+    <a class="showcase-media" href="https://doi.org/10.1145/3680528.3687674" aria-label="SING">
+      <img src="/assets/showcase/SING.png" alt="SING placeholder visual">
+    </a>
+    <div class="showcase-body">
+      <h3><a href="https://doi.org/10.1145/3680528.3687674">SING: Stability-Incorporated Neighborhood Graph</a></h3>
+      <p><strong>Diana Marin</strong>, Amal Dev Parakkat, Stefan Ohrhallinger, Michael Wimmer, Steve Oudot, and Pooran Memari</p>
+      <p class="showcase-meta">SIGGRAPH Asia 2024 Conference Papers (SA '24)</p>
+    </div>
+  </article>
+
+  <article class="showcase-card">
+    <a class="showcase-media" href="https://doi.org/10.1111/cgf.15136" aria-label="Reconstructing Curves from Sparse Samples on Riemannian Manifolds">
+      <img src="/assets/showcase/curves_on_surfs.png" alt="Riemannian curves placeholder visual">
+    </a>
+    <div class="showcase-body">
+      <h3><a href="https://doi.org/10.1111/cgf.15136">Reconstructing Curves from Sparse Samples on Riemannian Manifolds</a></h3>
+      <p><strong>Diana Marin</strong>, Filippo Maggioli, Simone Melzi, Stefan Ohrhallinger and Michael Wimmer</p>
+      <p class="showcase-meta">Computer Graphics Forum - Symposium on Geometric Processing 2024</p>
+    </div>
+  </article>
+
+  <article class="showcase-card">
+    <a class="showcase-media" href="https://doi.org/10.2312/egp.20241037" aria-label="Distributed Surface Reconstruction">
+      <img src="/assets/showcase/distributed.png" alt="Distributed Surface Reconstruction placeholder visual">
+    </a>
+    <div class="showcase-body">
+      <h3><a href="https://doi.org/10.2312/egp.20241037">Distributed Surface Reconstruction</a></h3>
+      <p><strong>Diana Marin</strong>, Patrick Komon, Stefan Ohrhallinger and Michael Wimmer</p>
+      <p class="showcase-meta">Eurographics 2024 - Posters</p>
+    </div>
+  </article>
+
+  <article class="showcase-card">
+    <a class="showcase-media" href="https://rdcu.be/e4AsO" aria-label="SIGnificant Outlier Removal">
+      <img src="/assets/showcase/significantoutlier.png" alt="SIGnificant Outlier Removal placeholder visual">
+    </a>
+    <div class="showcase-body">
+      <h3><a href="https://rdcu.be/e4AsO">SIGnificant Outlier Removal</a></h3>
+      <p><strong>Diana Marin</strong>, Filip Ilic, Stefan Ohrhallinger, Michael Wimmer</p>
+      <p class="showcase-meta">International Joint Conference on Computer Vision, Imaging and Computer Graphics 2024</p>
+    </div>
+  </article>
+
+  <article class="showcase-card">
+    <a class="showcase-media" href="https://doi.org/10.5220/0012394900003660" aria-label="Parameter-Free Connectivity for Point Clouds">
+      <img src="/assets/showcase/connectivity.png" alt="Parameter-Free Connectivity for Point Clouds placeholder visual">
+    </a>
+    <div class="showcase-body">
+      <h3><a href="https://doi.org/10.5220/0012394900003660">Parameter-Free Connectivity for Point Clouds</a></h3>
+      <p><strong>Diana Marin</strong>, Stefan Ohrhallinger and Michael Wimmer</p>
+      <p class="showcase-meta">Proceedings of the 19th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications 2024, Rome, Italy</p>
+    </div>
+  </article>
+
+  <article class="showcase-card">
+    <a class="showcase-media" href="https://doi.org/10.5220/0012431200003660" aria-label="Visualizing Group Structure in Compound Graphs">
+      <img src="/assets/showcase/node_link_diagram.png" alt="Compound graph placeholder visual">
+    </a>
+    <div class="showcase-body">
+      <h3><a href="https://doi.org/10.5220/0012431200003660">Visualizing Group Structure in Compound Graphs: the Current State, Lessons Learned, and Outstanding Opportunities</a></h3>
+      <p>Henry Ehlers, <strong>Diana Marin</strong>, Hsiang-Yun Wu and Renata Raidou</p>
+      <p class="showcase-meta">Proceedings of the 19th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications 2024, Rome, Italy</p>
+    </div>
+  </article>
+
+  <article class="showcase-card">
+    <a class="showcase-media" href="https://doi.org/10.2312/egp.20231023" aria-label="Parameter-Free and Improved Connectivity for Point Clouds">
+      <img src="/assets/showcase/poster23.png" alt="Improved Connectivity placeholder visual">
+    </a>
+    <div class="showcase-body">
+      <h3><a href="https://doi.org/10.2312/egp.20231023">Parameter-Free and Improved Connectivity for Point Clouds</a></h3>
+      <p><strong>Diana Marin</strong>, Stefan Ohrhallinger and Michael Wimmer</p>
+      <p class="showcase-meta">Eurographics 2023 - Posters</p>
+    </div>
+  </article>
+
+  <article class="showcase-card">
+    <a class="showcase-media" href="https://onlinelibrary.wiley.com/doi/10.1111/cgf.14654" aria-label="SIGDT">
+      <img src="/assets/showcase/SIGDT.png" alt="SIGDT placeholder visual">
+    </a>
+    <div class="showcase-body">
+      <h3><a href="https://onlinelibrary.wiley.com/doi/10.1111/cgf.14654">SIGDT: 2D Curve Reconstruction</a></h3>
+      <p><strong>Diana Marin</strong>, Stefan Ohrhallinger and Michael Wimmer</p>
+      <p class="showcase-meta">Computer Graphics Forum - Pacific Graphics 2022, Kyoto, Japan</p>
+    </div>
+  </article>
+
+  <article class="showcase-card">
+    <a class="showcase-media" href="https://diglib.eg.org/handle/10.2312/egp20221013" aria-label="SIG-based Curve Reconstruction">
+      <img src="/assets/showcase/poster22.png" alt="SIG-based Curve Reconstruction placeholder visual">
+    </a>
+    <div class="showcase-body">
+      <h3><a href="https://diglib.eg.org/handle/10.2312/egp20221013">SIG-based Curve Reconstruction</a></h3>
+      <p><strong>Diana Marin</strong>, Stefan Ohrhallinger and Michael Wimmer</p>
+      <p class="showcase-meta">Eurographics 2022 - Posters</p>
+    </div>
+  </article>
+</div>
+
+<!-- Plain-text publication list retained while placeholder visuals are temporary.
+
+- [Projection-Based Structural Element Extraction from Point Clouds](assets/GMP_X_2026_Projection_Based_Structural_Element_Extraction_from_Point_Clouds.pdf)
   **Diana Marin**, Julia Reisinger, Peter Kán, Hannes Kaufmann  
   *GMP-X Conference on Geometry and Applied Mathematics 2026*
 
@@ -73,17 +218,34 @@ I developed methods to improve point cloud reconstruction through improved proxi
   **Diana Marin**, Stefan Ohrhallinger and Michael Wimmer  
   *Eurographics 2022 - Posters*
 
+-->
 
 ## In Progress
+<div class="showcase-list compact">
+  <article class="showcase-card">
+    <a class="showcase-media" href="https://di-marin.github.io/pole-arina/" aria-label="Pole-Arina">
+      <img src="/assets/showcase/polearina.png" alt="Pole-Arina placeholder visual">
+    </a>
+    <div class="showcase-body">
+      <h3><a href="https://di-marin.github.io/pole-arina/">Pole-Arina: A Privacy-Preserving Dataset and Benchmark for Static Pole Tricks</a></h3>
+      <p><strong>Diana Marin</strong>, Katharina Scheucher, Peter Kán</p>
+      <p class="showcase-meta">CVPR Workshop on Sports 2026</p>
+    </div>
+  </article>
+</div>
+
+<!-- Plain-text in-progress list retained while placeholder visuals are temporary.
+
 - [Pole-Arina: A Privacy-Preserving Dataset and Benchmark for Static Pole Tricks](https://di-marin.github.io/pole-arina/)  
   **Diana Marin**, Katharina Scheucher, Peter Kán  
   *CVPR Workshop on Sports 2026*
 
+-->
+
 ## Organisational Duties
-- Organizer of [XR Salento 2026 Thematic Session on Egocentric scene understanding in the wild](https://www.xrsalento.it/thematic-session-2)
 - IPC Member and Organizer of Central European Seminar on Computer Graphics [(CESCG)](https://cescg.org/) since 2022
-- IPC member for 3DV 2026
-- Reviewer  for Eurographics, XR Salento, 3DV, VMV, CESCG
+- IPC member for 3DV 2026,  ICVR 2026
+- Reviewer  for Eurographics, XR Salento, 3DV, VMV, CAGD, GD, CESCG
 - Global Game Jam organizer since 2018 + Game Jam Plus 2023 organizer; Check-out some of the games developed over the years at our hub in [2026](https://globalgamejam.org/group/31266/games), [2025](https://globalgamejam.org/group/11929/games), [2023](https://v3.globalgamejam.org/2023/jam-sites/tu-wien-ggj23), [2022](https://v3.globalgamejam.org/2022/jam-sites/tu-wien-ggj22).
 
 ## Work Experience
