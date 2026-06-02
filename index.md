@@ -51,6 +51,20 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 
 <div class="showcase-list compact">
   <article class="showcase-card">
+    <a class="showcase-media" href="https://di-marin.github.io/pole-arina/" aria-label="Pole-Arina">
+      <img src="/assets/showcase/polearina.png" alt="Pole-Arina placeholder visual">
+    </a>
+    <div class="showcase-body">
+      <h3><a href="https://di-marin.github.io/pole-arina/">Pole-Arina: A Privacy-Preserving Dataset and Benchmark for Static Pole Tricks</a></h3>
+      <p><strong>Diana Marin</strong>, Katharina Scheucher, Peter Kán</p>
+      <p class="showcase-meta">CVPR Workshop on Sports 2026</p>
+    </div>
+  </article>
+</div>
+
+
+<div class="showcase-list compact">
+  <article class="showcase-card">
     <a class="showcase-media" href="assets/GMP_X_2026_Projection_Based_Structural_Element_Extraction_from_Point_Clouds.pdf" aria-label="Projection-Based Structural Element Extraction from Point Clouds">
       <img src="/assets/showcase/gmp.png" alt="Projection-Based Structural Element Extraction thumbnail">
     </a>
@@ -220,19 +234,7 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 
 -->
 
-## In Progress
-<div class="showcase-list compact">
-  <article class="showcase-card">
-    <a class="showcase-media" href="https://di-marin.github.io/pole-arina/" aria-label="Pole-Arina">
-      <img src="/assets/showcase/polearina.png" alt="Pole-Arina placeholder visual">
-    </a>
-    <div class="showcase-body">
-      <h3><a href="https://di-marin.github.io/pole-arina/">Pole-Arina: A Privacy-Preserving Dataset and Benchmark for Static Pole Tricks</a></h3>
-      <p><strong>Diana Marin</strong>, Katharina Scheucher, Peter Kán</p>
-      <p class="showcase-meta">CVPR Workshop on Sports 2026</p>
-    </div>
-  </article>
-</div>
+<!-- ## In Progress -->
 
 <!-- Plain-text in-progress list retained while placeholder visuals are temporary.
 
