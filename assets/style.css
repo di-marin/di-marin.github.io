@@ -54,8 +54,8 @@ img[alt="Logo"] {
 
 .cv-icon {
   display: inline-block;
-  width: 1.9em;
-  height: 2.45em;
+  width: 1.7em;
+  height: 2.2em;
   background-color: currentColor;
   -webkit-mask: url("/assets/cv_icon.png") center / contain no-repeat;
   mask: url("/assets/cv_icon.png") center / contain no-repeat;

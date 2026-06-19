@@ -1,7 +1,7 @@
 title: Diana Marin
 description: Postdoc@TU Wien
 theme: jekyll-theme-minimal
-logo: /assets/profile.jpg
+logo: /assets/profile.webp
 show_downloads: false
 remote_theme: pages-themes/minimal
 include: ["assets/style.css"]

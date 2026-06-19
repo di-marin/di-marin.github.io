@@ -15,7 +15,7 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 <div class="showcase-list">
   <article class="showcase-card">
     <a class="showcase-media" href="https://www.vr.tuwien.ac.at/projects/postdisaster/" aria-label="PostDisaster">
-      <img src="/assets/showcase/PostDisaster_logo.png" alt="PostDisaster placeholder visual">
+      <img src="/assets/showcase/thumbs/PostDisaster_logo.webp" alt="PostDisaster placeholder visual" loading="lazy" decoding="async">
     </a>
     <div class="showcase-body">
       <h3><a href="https://www.vr.tuwien.ac.at/projects/postdisaster/">PostDisaster</a></h3>
@@ -26,7 +26,7 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 
   <article class="showcase-card">
     <a class="showcase-media" href="https://www.vr.tuwien.ac.at/projects/restock-industry/" aria-label="RE:STOCK INDUSTRY">
-      <img src="/assets/showcase/ReStock_logo.png" alt="RE:STOCK INDUSTRY placeholder visual">
+      <img src="/assets/showcase/thumbs/ReStock_logo.webp" alt="RE:STOCK INDUSTRY placeholder visual" loading="lazy" decoding="async">
     </a>
     <div class="showcase-body">
       <h3><a href="https://www.vr.tuwien.ac.at/projects/restock-industry/">RE:STOCK INDUSTRY</a></h3>
@@ -37,7 +37,7 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 
   <article class="showcase-card">
     <a class="showcase-media" href="https://www.cg.tuwien.ac.at/research/projects/WorldScale" aria-label="Modeling the World at Scale">
-      <img src="/assets/showcase/modeling.jpg" alt="Modeling the World at Scale placeholder visual">
+      <img src="/assets/showcase/thumbs/modeling.webp" alt="Modeling the World at Scale placeholder visual" loading="lazy" decoding="async">
     </a>
     <div class="showcase-body">
       <h3><a href="https://www.cg.tuwien.ac.at/research/projects/WorldScale">Modeling the World at Scale</a></h3>
@@ -52,7 +52,7 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 <div class="showcase-list compact">
   <article class="showcase-card">
     <a class="showcase-media" href="https://di-marin.github.io/pole-arina/" aria-label="Pole-Arina">
-      <img src="/assets/showcase/polearina.png" alt="Pole-Arina placeholder visual">
+      <img src="/assets/showcase/thumbs/polearina.webp" alt="Pole-Arina placeholder visual" loading="lazy" decoding="async">
     </a>
     <div class="showcase-body">
       <h3><a href="https://di-marin.github.io/pole-arina/">Pole-Arina: A Privacy-Preserving Dataset and Benchmark for Static Pole Tricks</a></h3>
@@ -66,7 +66,7 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 <div class="showcase-list compact">
   <article class="showcase-card">
     <a class="showcase-media" href="https://repositum.tuwien.at/bitstream/20.500.12708/228343/1/Marin-2026-Projection-based%20structural%20element%20extraction%20from%20point%20clouds-evor.pdf" aria-label="Projection-Based Structural Element Extraction from Point Clouds">
-      <img src="/assets/showcase/gmp.png" alt="Projection-Based Structural Element Extraction thumbnail">
+      <img src="/assets/showcase/thumbs/gmp.webp" alt="Projection-Based Structural Element Extraction thumbnail" loading="lazy" decoding="async">
     </a>
     <div class="showcase-body">
       <h3><a href="https://repositum.tuwien.at/bitstream/20.500.12708/228343/1/Marin-2026-Projection-based%20structural%20element%20extraction%20from%20point%20clouds-evor.pdf">Projection-Based Structural Element Extraction from Point Clouds</a></h3>
@@ -77,7 +77,7 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 
   <article class="showcase-card">
     <a class="showcase-media" href="https://ec-3.org/wp-content/uploads/2025/10/EC32025_194.pdf" aria-label="Scan2Beams">
-      <img src="/assets/showcase/scan2beams.png" alt="Scan2Beams placeholder visual">
+      <img src="/assets/showcase/thumbs/scan2beams.webp" alt="Scan2Beams placeholder visual" loading="lazy" decoding="async">
     </a>
     <div class="showcase-body">
       <h3><a href="https://ec-3.org/wp-content/uploads/2025/10/EC32025_194.pdf">Scan2Beams: Moving Towards Automated Modelling and Analysis of Structural Industrial Building Stock</a></h3>
@@ -88,7 +88,7 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 
   <article class="showcase-card">
     <a class="showcase-media" href="https://doi.org/10.1145/3680528.3687674" aria-label="SING">
-      <img src="/assets/showcase/SING.png" alt="SING placeholder visual">
+      <img src="/assets/showcase/thumbs/SING.webp" alt="SING placeholder visual" loading="lazy" decoding="async">
     </a>
     <div class="showcase-body">
       <h3><a href="https://doi.org/10.1145/3680528.3687674">SING: Stability-Incorporated Neighborhood Graph</a></h3>
@@ -99,7 +99,7 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 
   <article class="showcase-card">
     <a class="showcase-media" href="https://doi.org/10.1111/cgf.15136" aria-label="Reconstructing Curves from Sparse Samples on Riemannian Manifolds">
-      <img src="/assets/showcase/curves_on_surfs.png" alt="Riemannian curves placeholder visual">
+      <img src="/assets/showcase/thumbs/curves_on_surfs.webp" alt="Riemannian curves placeholder visual" loading="lazy" decoding="async">
     </a>
     <div class="showcase-body">
       <h3><a href="https://doi.org/10.1111/cgf.15136">Reconstructing Curves from Sparse Samples on Riemannian Manifolds</a></h3>
@@ -110,7 +110,7 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 
   <article class="showcase-card">
     <a class="showcase-media" href="https://doi.org/10.2312/egp.20241037" aria-label="Distributed Surface Reconstruction">
-      <img src="/assets/showcase/distributed.png" alt="Distributed Surface Reconstruction placeholder visual">
+      <img src="/assets/showcase/thumbs/distributed.webp" alt="Distributed Surface Reconstruction placeholder visual" loading="lazy" decoding="async">
     </a>
     <div class="showcase-body">
       <h3><a href="https://doi.org/10.2312/egp.20241037">Distributed Surface Reconstruction</a></h3>
@@ -121,7 +121,7 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 
   <article class="showcase-card">
     <a class="showcase-media" href="https://rdcu.be/e4AsO" aria-label="SIGnificant Outlier Removal">
-      <img src="/assets/showcase/significantoutlier.png" alt="SIGnificant Outlier Removal placeholder visual">
+      <img src="/assets/showcase/thumbs/significantoutlier.webp" alt="SIGnificant Outlier Removal placeholder visual" loading="lazy" decoding="async">
     </a>
     <div class="showcase-body">
       <h3><a href="https://rdcu.be/e4AsO">SIGnificant Outlier Removal</a></h3>
@@ -132,7 +132,7 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 
   <article class="showcase-card">
     <a class="showcase-media" href="https://doi.org/10.5220/0012394900003660" aria-label="Parameter-Free Connectivity for Point Clouds">
-      <img src="/assets/showcase/connectivity.png" alt="Parameter-Free Connectivity for Point Clouds placeholder visual">
+      <img src="/assets/showcase/thumbs/connectivity.webp" alt="Parameter-Free Connectivity for Point Clouds placeholder visual" loading="lazy" decoding="async">
     </a>
     <div class="showcase-body">
       <h3><a href="https://doi.org/10.5220/0012394900003660">Parameter-Free Connectivity for Point Clouds</a></h3>
@@ -143,7 +143,7 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 
   <article class="showcase-card">
     <a class="showcase-media" href="https://doi.org/10.5220/0012431200003660" aria-label="Visualizing Group Structure in Compound Graphs">
-      <img src="/assets/showcase/node_link_diagram.png" alt="Compound graph placeholder visual">
+      <img src="/assets/showcase/thumbs/node_link_diagram.webp" alt="Compound graph placeholder visual" loading="lazy" decoding="async">
     </a>
     <div class="showcase-body">
       <h3><a href="https://doi.org/10.5220/0012431200003660">Visualizing Group Structure in Compound Graphs: the Current State, Lessons Learned, and Outstanding Opportunities</a></h3>
@@ -154,7 +154,7 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 
   <article class="showcase-card">
     <a class="showcase-media" href="https://doi.org/10.2312/egp.20231023" aria-label="Parameter-Free and Improved Connectivity for Point Clouds">
-      <img src="/assets/showcase/poster23.png" alt="Improved Connectivity placeholder visual">
+      <img src="/assets/showcase/thumbs/poster23.webp" alt="Improved Connectivity placeholder visual" loading="lazy" decoding="async">
     </a>
     <div class="showcase-body">
       <h3><a href="https://doi.org/10.2312/egp.20231023">Parameter-Free and Improved Connectivity for Point Clouds</a></h3>
@@ -165,7 +165,7 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 
   <article class="showcase-card">
     <a class="showcase-media" href="https://onlinelibrary.wiley.com/doi/10.1111/cgf.14654" aria-label="SIGDT">
-      <img src="/assets/showcase/SIGDT.png" alt="SIGDT placeholder visual">
+      <img src="/assets/showcase/thumbs/SIGDT.webp" alt="SIGDT placeholder visual" loading="lazy" decoding="async">
     </a>
     <div class="showcase-body">
       <h3><a href="https://onlinelibrary.wiley.com/doi/10.1111/cgf.14654">SIGDT: 2D Curve Reconstruction</a></h3>
@@ -176,7 +176,7 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 
   <article class="showcase-card">
     <a class="showcase-media" href="https://diglib.eg.org/handle/10.2312/egp20221013" aria-label="SIG-based Curve Reconstruction">
-      <img src="/assets/showcase/poster22.png" alt="SIG-based Curve Reconstruction placeholder visual">
+      <img src="/assets/showcase/thumbs/poster22.webp" alt="SIG-based Curve Reconstruction placeholder visual" loading="lazy" decoding="async">
     </a>
     <div class="showcase-body">
       <h3><a href="https://diglib.eg.org/handle/10.2312/egp20221013">SIG-based Curve Reconstruction</a></h3>
