@@ -65,11 +65,11 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 
 <div class="showcase-list compact">
   <article class="showcase-card">
-    <a class="showcase-media" href="assets/GMP_X_2026_Projection_Based_Structural_Element_Extraction_from_Point_Clouds.pdf" aria-label="Projection-Based Structural Element Extraction from Point Clouds">
+    <a class="showcase-media" href="https://repositum.tuwien.at/bitstream/20.500.12708/228343/1/Marin-2026-Projection-based%20structural%20element%20extraction%20from%20point%20clouds-evor.pdf" aria-label="Projection-Based Structural Element Extraction from Point Clouds">
       <img src="/assets/showcase/gmp.png" alt="Projection-Based Structural Element Extraction thumbnail">
     </a>
     <div class="showcase-body">
-      <h3><a href="assets/GMP_X_2026_Projection_Based_Structural_Element_Extraction_from_Point_Clouds.pdf">Projection-Based Structural Element Extraction from Point Clouds</a></h3>
+      <h3><a href="https://repositum.tuwien.at/bitstream/20.500.12708/228343/1/Marin-2026-Projection-based%20structural%20element%20extraction%20from%20point%20clouds-evor.pdf">Projection-Based Structural Element Extraction from Point Clouds</a></h3>
       <p><strong>Diana Marin</strong>, Julia Reisinger, Peter Kán, Hannes Kaufmann</p>
       <p class="showcase-meta">GMP-X Conference on Geometry and Applied Mathematics 2026</p>
     </div>
@@ -188,7 +188,7 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 
 <!-- Plain-text publication list retained while placeholder visuals are temporary.
 
-- [Projection-Based Structural Element Extraction from Point Clouds](assets/GMP_X_2026_Projection_Based_Structural_Element_Extraction_from_Point_Clouds.pdf)
+- [Projection-Based Structural Element Extraction from Point Clouds](https://repositum.tuwien.at/bitstream/20.500.12708/228343/1/Marin-2026-Projection-based%20structural%20element%20extraction%20from%20point%20clouds-evor.pdf)
   **Diana Marin**, Julia Reisinger, Peter Kán, Hannes Kaufmann  
   *GMP-X Conference on Geometry and Applied Mathematics 2026*
 
