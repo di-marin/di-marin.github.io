@@ -6,7 +6,7 @@ layout: default
 
 ## Hello
 
-I’m currently working as postdoctoral researcher in the [Virtual and Augmented Reality Group](https://www.vr.tuwien.ac.at/) at TU Wien led by Prof. Hannes Kaufmann. I defended my PhD on *Proximity-Based Point Cloud Reconstruction*, in February 2025 as part of the Rendering and Modeling Group at TU Wien, under Prof. Michael Wimmer's and Dr. Stefan Ohrhallinger's supervision. I am currently investigating how we reconstruct, interpret, and interact with unstructured data by combining geometry, topology and human perception, with application to various fields such as clustering, segmentation and procedural generation.
+I’m currently working as a postdoctoral researcher in the [Virtual and Augmented Reality Group](https://www.vr.tuwien.ac.at/) at TU Wien led by Prof. Hannes Kaufmann. I defended my PhD on *Proximity-Based Point Cloud Reconstruction*, in February 2025 as part of the Rendering and Modeling Group at TU Wien, under Prof. Michael Wimmer's and Dr. Stefan Ohrhallinger's supervision. I am currently investigating how we reconstruct, interpret, and interact with unstructured data by combining geometry, topology and human perception, with application to various fields such as clustering, segmentation and procedural generation.
 
 
 
@@ -20,7 +20,7 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
     <div class="showcase-body">
       <h3><a href="https://www.vr.tuwien.ac.at/projects/postdisaster/">PostDisaster</a></h3>
       <p class="showcase-meta">2025 - Present</p>
-      <p>We are working with experts to create tools that can help them in efficiently analyze and plan after disastrous events (floods, earthquakes). I am developing an image-based large scale fast reconstruction method.</p>
+      <p>We are working with experts to create tools that can help them efficiently analyze and plan after disastrous events (floods, earthquakes). I am developing an image-based large scale fast reconstruction method.</p>
     </div>
   </article>
 
@@ -51,6 +51,17 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 
 <div class="showcase-list compact">
   <article class="showcase-card">
+    <a class="showcase-media" href="https://tobiasbat.github.io/ChronoFuseGS/" aria-label="ChronoFuseGS">
+      <img src="/assets/showcase/thumbs/chronofusegs.webp" alt="ChronoFuseGS change visualization" loading="lazy" decoding="async">
+    </a>
+    <div class="showcase-body">
+      <h3><a href="https://tobiasbat.github.io/ChronoFuseGS/">ChronoFuseGS: Multi-Temporal Gaussian Fusion with Per-Splat Persistence and Change Visualization</a></h3>
+      <p>Tobias Batik, <strong>Diana Marin</strong>, Peter Kán, Hannes Kaufmann</p>
+      <p class="showcase-meta">Pacific Graphics 2026 Conference Papers (to appear)</p>
+    </div>
+  </article>
+
+  <article class="showcase-card">
     <a class="showcase-media" href="https://di-marin.github.io/pole-arina/" aria-label="Pole-Arina">
       <img src="/assets/showcase/thumbs/polearina.webp" alt="Pole-Arina placeholder visual" loading="lazy" decoding="async">
     </a>
@@ -65,22 +76,22 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 
 <div class="showcase-list compact">
   <article class="showcase-card">
-    <a class="showcase-media" href="https://repositum.tuwien.at/bitstream/20.500.12708/228343/1/Marin-2026-Projection-based%20structural%20element%20extraction%20from%20point%20clouds-evor.pdf" aria-label="Projection-Based Structural Element Extraction from Point Clouds">
+    <a class="showcase-media" href="https://doi.org/10.34726/12182" aria-label="Projection-Based Structural Element Extraction from Point Clouds">
       <img src="/assets/showcase/thumbs/gmp.webp" alt="Projection-Based Structural Element Extraction thumbnail" loading="lazy" decoding="async">
     </a>
     <div class="showcase-body">
-      <h3><a href="https://repositum.tuwien.at/bitstream/20.500.12708/228343/1/Marin-2026-Projection-based%20structural%20element%20extraction%20from%20point%20clouds-evor.pdf">Projection-Based Structural Element Extraction from Point Clouds</a></h3>
+      <h3><a href="https://doi.org/10.34726/12182">Projection-Based Structural Element Extraction from Point Clouds</a></h3>
       <p><strong>Diana Marin</strong>, Julia Reisinger, Peter Kán, Hannes Kaufmann</p>
       <p class="showcase-meta">GMP-X Conference on Geometry and Applied Mathematics 2026</p>
     </div>
   </article>
 
   <article class="showcase-card">
-    <a class="showcase-media" href="https://ec-3.org/wp-content/uploads/2025/10/EC32025_194.pdf" aria-label="Scan2Beams">
+    <a class="showcase-media" href="https://doi.org/10.35490/EC3.2025.194" aria-label="Scan2Beams">
       <img src="/assets/showcase/thumbs/scan2beams.webp" alt="Scan2Beams placeholder visual" loading="lazy" decoding="async">
     </a>
     <div class="showcase-body">
-      <h3><a href="https://ec-3.org/wp-content/uploads/2025/10/EC32025_194.pdf">Scan2Beams: Moving Towards Automated Modelling and Analysis of Structural Industrial Building Stock</a></h3>
+      <h3><a href="https://doi.org/10.35490/EC3.2025.194">Scan2Beams: Moving Towards Automated Modelling and Analysis of Structural Industrial Building Stock</a></h3>
       <p>Julia Reisinger, <strong>Diana Marin</strong>, Philipp Rufinatscha, Peter Kán</p>
       <p class="showcase-meta">2025 European Conference on Computing in Construction</p>
     </div>
@@ -104,7 +115,7 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
     <div class="showcase-body">
       <h3><a href="https://doi.org/10.1111/cgf.15136">Reconstructing Curves from Sparse Samples on Riemannian Manifolds</a></h3>
       <p><strong>Diana Marin</strong>, Filippo Maggioli, Simone Melzi, Stefan Ohrhallinger and Michael Wimmer</p>
-      <p class="showcase-meta">Computer Graphics Forum - Symposium on Geometric Processing 2024</p>
+      <p class="showcase-meta">Computer Graphics Forum - Symposium on Geometry Processing 2024</p>
     </div>
   </article>
 
@@ -126,7 +137,7 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
     <div class="showcase-body">
       <h3><a href="https://rdcu.be/e4AsO">SIGnificant Outlier Removal</a></h3>
       <p><strong>Diana Marin</strong>, Filip Ilic, Stefan Ohrhallinger, Michael Wimmer</p>
-      <p class="showcase-meta">International Joint Conference on Computer Vision, Imaging and Computer Graphics 2024</p>
+      <p class="showcase-meta">VISIGRAPP 2024 Revised Selected Papers (CCIS 2548), 2026</p>
     </div>
   </article>
 
@@ -188,11 +199,11 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 
 <!-- Plain-text publication list retained while placeholder visuals are temporary.
 
-- [Projection-Based Structural Element Extraction from Point Clouds](https://repositum.tuwien.at/bitstream/20.500.12708/228343/1/Marin-2026-Projection-based%20structural%20element%20extraction%20from%20point%20clouds-evor.pdf)
+- [Projection-Based Structural Element Extraction from Point Clouds](https://doi.org/10.34726/12182)
   **Diana Marin**, Julia Reisinger, Peter Kán, Hannes Kaufmann  
   *GMP-X Conference on Geometry and Applied Mathematics 2026*
 
-- [Scan2Beams: Moving Towards Automated Modelling and Analysis of Structural Industrial Building Stock](https://ec-3.org/wp-content/uploads/2025/10/EC32025_194.pdf)  
+- [Scan2Beams: Moving Towards Automated Modelling and Analysis of Structural Industrial Building Stock](https://doi.org/10.35490/EC3.2025.194)  
   Julia Reisinger, **Diana Marin**, Philipp Rufinatscha, Peter Kán  
   *2025 European Conference on Computing in Construction*
 
@@ -202,7 +213,7 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
   
 - [Reconstructing Curves from Sparse Samples on Riemannian Manifolds](https://doi.org/10.1111/cgf.15136)  
   **Diana Marin**, Filippo Maggioli, Simone Melzi, Stefan Ohrhallinger and Michael Wimmer  
-  *Computer Graphics Forum - Symposium on Geometric Processing 2024*
+  *Computer Graphics Forum - Symposium on Geometry Processing 2024*
   
 - [Distributed Surface Reconstruction](https://doi.org/10.2312/egp.20241037)  
   **Diana Marin**, Patrick Komon, Stefan Ohrhallinger and Michael Wimmer  
@@ -210,7 +221,7 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
   
 - [SIGnificant Outlier Removal](https://rdcu.be/e4AsO)  
   **Diana Marin**, Filip Ilic, Stefan Ohrhallinger, Michael Wimmer  
-  *International Joint Conference on Computer Vision, Imaging and Computer Graphics 2024*
+  *VISIGRAPP 2024 Revised Selected Papers (CCIS 2548), 2026*
 
 - [Parameter-Free Connectivity for Point Clouds](https://doi.org/10.5220/0012394900003660)  
   **Diana Marin**, Stefan Ohrhallinger and Michael Wimmer   
@@ -246,8 +257,9 @@ I’m currently working as postdoctoral researcher in the [Virtual and Augmented
 
 ## Organisational Duties
 - IPC Member and Organizer of Central European Seminar on Computer Graphics [(CESCG)](https://cescg.org/) since 2022
-- IPC member for 3DV 2026,  ICVR 2026
-- Reviewer  for Eurographics, XR Salento, 3DV, VMV, CAGD, GD, CESCG
+- Member of the SIGGRAPH 2027 Technical Papers Committee
+- IPC member for VMV 2025, ICVR 2026, STAG 2026
+- Reviewer for conferences: Eurographics, IEEE VR, 3DV, VMV, GD, ICXR, CESCG; and journals: CAGD, Journal of Artificial Intelligence, Journal of Computational Engineering and Design
 - Global Game Jam organizer since 2018 + Game Jam Plus 2023 organizer; Check-out some of the games developed over the years at our hub in [2026](https://globalgamejam.org/group/31266/games), [2025](https://globalgamejam.org/group/11929/games), [2023](https://v3.globalgamejam.org/2023/jam-sites/tu-wien-ggj23), [2022](https://v3.globalgamejam.org/2022/jam-sites/tu-wien-ggj22).
 
 ## Work Experience
@@ -268,12 +280,21 @@ I guide students to develop a game from scratch in OpenGL or Vulkan, gaining exp
 <p class="indented">
 I assisted students with personal tutorials to help them better understand graphics concepts,  and I marked part of the coursework.
 </p>
-  
+
+## Supervision
+Theses I supervised day to day (formally as second supervisor):
+
+- **David Skrebic**, *Ring-Based AR Controls for Spectacles*, master's thesis, 2026. Nominated for the [TU Wien Informatics Best Master Thesis Award 2026](https://informatics.tuwien.ac.at/informatics-awards/#best-master-thesis-award).
+- **Ole Siemers**, [*Image Based Level-of-Detail Construction for Novel View Synthesis*](https://doi.org/10.34726/hss.2026.135800), master's thesis, 2026. I was the sole supervisor of his CESCG paper [*Image Based Level-of-Detail Optimization for Large-Scale 3D Reconstruction*](https://cescg.org/wp-content/uploads/2026/04/Siemers-Image-Based-Level-of-Detail-Optimization-for-Large-Scale-3D-Reconstruction-3.pdf), which received the **Best Paper Award at CESCG 2026**.
+- **Fabian Hohn**, *Lightweight Machine Learning on an Embedded System*, bachelor's thesis, 2026.
+- **Katharina Scheucher**, [*Pole-arina: Deep Learning–Based Coaching System for Pole Dancing Technique*](https://doi.org/10.34726/hss.2025.132462), master's thesis, 2025.
+- **Patrick Komon**, *Distributed Surface Reconstruction*, bachelor's thesis, 2022.
+
+Currently supervising two master's and two bachelor's theses.
 
 ## Awards
-- My student, Ole Siemers, was awarded the Best Paper Award at CESCG 2026
 - Selected as [*WiGRAPH Rising Star 2025*](https://www.wigraph.org/spotlights/meet-our-rising-stars-2025/#person-Marin_Diana)
-- Received the **KUWI Study Abroad Grant** (1500 EUR) for my star at Ecole Polytechnique
+- Received the **KUWI Study Abroad Grant** (1500 EUR) for my stay at Ecole Polytechnique
 - Got the **Doktorandinnen der Informatik ans Rednerpult** 2022-2024  (1000 EUR each year) to present accepted work at a conference
 - **Cook Prize** 2021 - awarded to the student from the School of Computing who achieves the best performance in the master's year.
 - **Hutchinson Prize** 2019 - awarded to the student from the School of Computing achieving the best performance in the second year.
@@ -284,5 +305,5 @@ I assisted students with personal tutorials to help them better understand graph
 
 
 ## Invited Talks
-- **FAU Erlangen**, 8 October 2024, Erlangen - [slides](https://docs.google.com/presentation/d/e/2PACX-1vQ8a4Ge3Ll9FgwlExhN6co_crjDdI4bQUxlf0HT97R4PvXdpV-1e33BBvuiRtRQKmtucdz2ps3TitxM/pub?start=false&loop=false&delayms=3000)
-- **TU Graz**, 28 May 2024, Graz - [slides](https://docs.google.com/presentation/d/e/2PACX-1vTEPIHrK5MPUM8UUPKIRYR-rGB2pW2c6A_vczbG_0Rymj0m6PH7_k3y8jQn4HsETPIgEFUv4YrsVtvv/pub?start=false&loop=false&delayms=3000)
+- **FAU Erlangen**, 8 October 2024, Erlangen - *Proximity-based reconstruction from point clouds* - [slides](https://docs.google.com/presentation/d/e/2PACX-1vQ8a4Ge3Ll9FgwlExhN6co_crjDdI4bQUxlf0HT97R4PvXdpV-1e33BBvuiRtRQKmtucdz2ps3TitxM/pub?start=false&loop=false&delayms=3000)
+- **TU Graz**, 28 May 2024, Graz - *Sampling and reconstructing point clouds*, with Stefan Ohrhallinger - [slides](https://docs.google.com/presentation/d/e/2PACX-1vTEPIHrK5MPUM8UUPKIRYR-rGB2pW2c6A_vczbG_0Rymj0m6PH7_k3y8jQn4HsETPIgEFUv4YrsVtvv/pub?start=false&loop=false&delayms=3000)
