@@ -270,13 +270,13 @@ I’m currently working as a postdoctoral researcher in the [Virtual and Augment
 - **Co-Founder and Software Engineer** @ MD Lab Games, 2015-2021
 
 ## Teaching
-- **Programming Techniques for Visual Computing** @ TU Wien, 2022-2025. 
+- **Programming Techniques for Visual Computing** @ TU Wien, 2024-2025, and **Computer Graphics Lab** @ TU Wien, 2022-2023. 
 <p class="indented">
 I guide students to develop a game from scratch in OpenGL or Vulkan, gaining experience in hands-on implementation of visual effects. You can check out some of my students' games 
 <a href="https://www.cg.tuwien.ac.at/courses/PTVC/HallOfFame">here</a> and <a href="https://www.cg.tuwien.ac.at/courses/CG/HallOfFame">here</a>.
 </p>
 
-- **Computer Graphics** @ University of Leeds, 2020 - Teaching Assistant.
+- **Computer Graphics** @ University of Leeds, 2020-2021 - Teaching Assistant.
 <p class="indented">
 I assisted students with personal tutorials to help them better understand graphics concepts,  and I marked part of the coursework.
 </p>
