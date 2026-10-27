@@ -98,13 +98,13 @@ I’m currently working as a postdoctoral researcher in the [Virtual and Augment
   </article>
 
   <article class="showcase-card">
-    <a class="showcase-media" href="https://doi.org/10.34726/hss.2025.128668" aria-label="Proximity-Based Point Cloud Reconstruction">
+    <a class="showcase-media" href="https://repositum.tuwien.at/handle/20.500.12708/215385" aria-label="Proximity-Based Point Cloud Reconstruction">
       <img src="/assets/showcase/thumbs/thesis.webp" alt="Sphere-of-influence graph construction" loading="lazy" decoding="async">
     </a>
     <div class="showcase-body">
-      <h3><a href="https://doi.org/10.34726/hss.2025.128668">Proximity-Based Point Cloud Reconstruction</a></h3>
+      <h3><a href="https://repositum.tuwien.at/handle/20.500.12708/215385">Proximity-Based Point Cloud Reconstruction</a></h3>
       <p><strong>Diana Marin</strong></p>
-      <p class="showcase-meta">PhD thesis, TU Wien, 2025</p>
+      <p class="showcase-meta">PhD Thesis, TU Wien, 2025</p>
     </div>
   </article>
 
@@ -218,9 +218,9 @@ I’m currently working as a postdoctoral researcher in the [Virtual and Augment
   Julia Reisinger, **Diana Marin**, Philipp Rufinatscha, Peter Kán  
   *2025 European Conference on Computing in Construction*
 
-- [Proximity-Based Point Cloud Reconstruction](https://doi.org/10.34726/hss.2025.128668)  
+- [Proximity-Based Point Cloud Reconstruction](https://repositum.tuwien.at/handle/20.500.12708/215385)  
   **Diana Marin**  
-  *PhD thesis, TU Wien, 2025*
+  *PhD Thesis, TU Wien, 2025*
 
 - [SING: Stability-Incorporated Neighborhood Graph](https://doi.org/10.1145/3680528.3687674)  
   **Diana Marin**, Amal Dev Parakkat, Stefan Ohrhallinger, Michael Wimmer, Steve Oudot, and Pooran Memari  
